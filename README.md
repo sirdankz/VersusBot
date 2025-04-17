@@ -20,19 +20,31 @@ A Python bot that watches your Softether vpn logs over ssh and keeps your Discor
 Example of the bot
 
 ╔═════════════ VPN Status - DEFAULT ═════════════╗
+
 ╠════════════════════════════════════════════════╣
+
 ║ PCB 1: [Empty]                    AVAILABLE ║
+
 ║ PCB 2: [Empty]                    AVAILABLE ║
+
 ║ PCB 3: [Empty]                    AVAILABLE ║
+
 ║ PCB 4: [Empty]                    AVAILABLE ║
+
 ╚════════════════════════════════════════════════╝
 
 ╔══════════════ VPN Status - TEST ═══════════════╗
+
 ╠════════════════════════════════════════════════╣
+
 ║ PCB 1: [Empty]                    AVAILABLE ║
+
 ║ PCB 2: [Empty]                    AVAILABLE ║
+
 ║ PCB 3: [Empty]                    AVAILABLE ║
+
 ║ PCB 4: [Empty]                    AVAILABLE ║
+
 ╚════════════════════════════════════════════════╝ 
 
 
